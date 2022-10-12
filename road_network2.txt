@@ -1,0 +1,8 @@
+Dallas : New York
+Chicago : Houston
+Houston : Philadelphia
+Houston : San Jose
+Los Angeles : San Diego
+Phoenix : Los Angeles
+Los Angeles : San Antonio
+San Antonio : San Diego
